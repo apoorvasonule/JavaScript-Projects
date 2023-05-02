@@ -3,4 +3,5 @@
 Learning JavaScript by making projects.
 
 Completed projects list:
-- 1. Basic Calculator
+- Project 1: Basic Calculator
+- Project 2: Meme Generator
