@@ -6,3 +6,4 @@ Completed projects list:
 - Project 1: Basic Calculator
 - Project 2: Meme Generator
 - Project 3: Life Timer
+- Project 4: Github Profile Search
